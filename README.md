@@ -1,4 +1,5 @@
-# my-files
+# Python Exercises
 
-* hello
-* 
+* python modules
+* File handling
+* looping statements
